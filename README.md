@@ -23,6 +23,40 @@ Insights from the analysis can help inform **marketing targeting strategies and 
 
 ---
 
+# Analytical Workflow
+
+This project follows a typical end-to-end analytics workflow used in real business environments:
+
+1. **Data Exploration**
+   - Loaded and inspected the customer dataset
+   - Identified key demographic, household and marketing response variables
+
+2. **Feature Engineering**
+   - Created derived variables including:
+     - Customer value segments
+     - Household types (children vs no children)
+     - Customer tenure segments
+   - Calculated total customer spend
+
+3. **SQL Analysis**
+   - Used SQL queries to aggregate customer behaviour metrics
+   - Generated segment-level metrics such as:
+     - Average spend
+     - Total revenue
+     - Campaign response rates
+
+4. **Python Analysis**
+   - Loaded SQL outputs into Pandas
+   - Performed additional analysis and segmentation
+
+5. **Data Visualisation**
+   - Built visualisations using Seaborn and Matplotlib to highlight key insights
+
+6. **Business Interpretation**
+   - Translated analytical findings into marketing strategy recommendations
+
+---
+
 # Tools Used
 
 - **SQL (SQLite)** – data querying and aggregation  
@@ -30,6 +64,16 @@ Insights from the analysis can help inform **marketing targeting strategies and 
 - **Pandas** – data manipulation  
 - **Seaborn & Matplotlib** – visualisation  
 - **Jupyter Notebook** – analysis environment  
+
+---
+
+# Skills Demonstrated
+
+- SQL aggregation and segmentation analysis
+- Python data analysis with Pandas
+- Data visualisation using Seaborn and Matplotlib
+- Feature engineering and customer segmentation
+- Translating data insights into business recommendations
 
 ---
 
