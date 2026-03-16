@@ -35,6 +35,16 @@ Insights from the analysis can help inform **marketing targeting strategies and 
 
 # Key Visualisations
 
+## Campaign Response Rate by Customer Value Segment
+
+![Customer Value Segment Response](value_segment_response.png)
+
+High-value customers showed a dramatically higher response rate (28.4%) to the latest campaign compared with medium-value (10.4%) and low-value customers (9.8%).  
+
+This suggests marketing efforts are effectively reaching the most profitable customers.
+
+---
+
 ## Marketing Campaign Success Rates
 
 ![Campaign Success Rates](campaign_success_rates.png)
@@ -45,25 +55,16 @@ The latest marketing campaign achieved the highest response rate (14.9%), signif
 
 ## Average Customer Spend by Education Level
 
-![Average Spend by Education](images/education_level_spend.png)
+![Average Spend by Education](education_level_spend.png)
 
 Customers with PhD-level education recorded the highest average spend, although graduates generated the largest overall revenue due to their larger customer base.
 
 ---
 
-## Campaign Response Rate by Customer Value Segment
-
-![Customer Value Segment Response](images/value_segment_response.png)
-
-High-value customers showed a dramatically higher response rate (28.4%) to the latest campaign compared with medium-value (10.4%) and low-value customers (9.8%).  
-
-This suggests marketing efforts are effectively reaching the most profitable customers.
-
----
 
 ## Average Spend by Customer Tenure
 
-![Customer Tenure Spend](images/tenure_spend.png)
+![Customer Tenure Spend](tenure_spend.png)
 
 Customers with longer tenure generate significantly higher average spending. Loyal customers spend considerably more than newer customers, indicating that **customer retention plays a key role in long-term revenue generation**.
 
