@@ -57,16 +57,6 @@ This project follows a typical end-to-end analytics workflow used in real busine
 
 ---
 
-# Tools Used
-
-- **SQL (SQLite)** – data querying and aggregation  
-- **Python** – analysis and visualisation  
-- **Pandas** – data manipulation  
-- **Seaborn & Matplotlib** – visualisation  
-- **Jupyter Notebook** – analysis environment  
-
----
-
 # Skills Demonstrated
 
 - SQL aggregation and segmentation analysis
