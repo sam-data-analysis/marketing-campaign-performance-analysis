@@ -55,7 +55,7 @@ The latest marketing campaign achieved the highest response rate (14.9%), signif
 
 ## Average Customer Spend by Education Level
 
-<img src="educational_level_spend.png" width="600">
+<img src="education_level_spend.png" width="600">
 
 Customers with PhD-level education recorded the highest average spend, although graduates generated the largest overall revenue due to their larger customer base.
 
