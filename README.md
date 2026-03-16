@@ -47,7 +47,7 @@ This suggests marketing efforts are effectively reaching the most profitable cus
 
 ## Marketing Campaign Success Rates
 
-![Campaign Success Rates](campaign_success_rates.png)
+<img src="campaign_success_rates.png" width="600">
 
 The latest marketing campaign achieved the highest response rate (14.9%), significantly outperforming earlier campaigns. Campaign 2 performed notably worse than the others, suggesting potential issues with targeting or messaging.
 
