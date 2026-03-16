@@ -1,5 +1,12 @@
 # Marketing Campaign Performance Analysis
 
+# Key Findings
+
+- The latest marketing campaign achieved the highest response rate (14.9%).
+- High-value customers responded nearly **3x more frequently** than lower-value customers.
+- Customers without children generated higher average spending.
+- Loyal customers spend significantly more than new customers, highlighting the importance of retention strategies.
+
 SQL and Python data analysis project examining customer spending behaviour and marketing campaign effectiveness for an e-commerce business.
 
 The goal of the analysis is to understand which customer segments generate the most revenue, how successful past marketing campaigns have been, and whether recent campaigns are effectively targeting high-value customers.
@@ -59,10 +66,11 @@ This project follows a typical end-to-end analytics workflow used in real busine
 
 # Skills Demonstrated
 
-- SQL aggregation and segmentation analysis
-- Python data analysis with Pandas
-- Data visualisation using Seaborn and Matplotlib
+- SQL querying and data aggregation
+- Python data analysis using Pandas
 - Feature engineering and customer segmentation
+- Data visualisation using Seaborn and Matplotlib
+- Marketing campaign performance analysis
 - Translating data insights into business recommendations
 
 ---
