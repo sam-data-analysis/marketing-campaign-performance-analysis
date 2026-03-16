@@ -89,6 +89,22 @@ Customers with longer tenure generate significantly higher average spending. Loy
 
 ---
 
+# Estimated Business Impact
+
+If marketing campaigns focus more heavily on high-value customers, response rates could potentially increase significantly.
+
+For example:
+
+- High value customer response rate: **28.4%**
+- Medium value response rate: **10.4%**
+- Low value response rate: **9.8%**
+
+If the company redirected campaign spend toward high-value segments, conversion rates could potentially **nearly triple**, increasing marketing ROI and overall campaign profitability.
+
+Similarly, focusing retention strategies on loyal customers could increase long-term revenue, as these customers demonstrate substantially higher average spending compared with new customers.
+
+---
+
 # Business Recommendations
 
 Based on the analysis, the following strategic recommendations can be made:
