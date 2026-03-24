@@ -1,4 +1,4 @@
-# Marketing Campaign Performance Analysis
+# Marketing Campaign Performance Analysis (Customer & ROI Insights)
 
 SQL and Python data analysis project examining customer spending behaviour and marketing campaign effectiveness for an e-commerce business.
 
